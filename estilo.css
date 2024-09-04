@@ -35,7 +35,8 @@ body{
 }
 
 .cadeado-imagem{
-    font-size: 10px;
+   height: auto;
+    width: 15%;
 
 }
 .conteudo-senha{
