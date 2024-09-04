@@ -34,6 +34,10 @@ body{
     margin-top: 80px;
 }
 
+.cadeado-imagem{
+    font-size: 10px;
+
+}
 .conteudo-senha{
     margin-top: 80px;
     background: var(--fundo-texto);
